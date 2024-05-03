@@ -12,5 +12,8 @@
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "@cloudflare/next-on-pages": "^1.11.2"
   }
 }
